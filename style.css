@@ -1,25 +1,28 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    margin-top: 50px;
+    margin-top: 100px;
 }
 .result-container {
     display: inline-block;
     text-align: left;
-    padding: 10px;
+    padding: 20px;
     border: 1px solid #0f0f0f;
     border-radius: 5px;
     background-color:darksalmon;
 }
 .result {
-    margin: 10px 0;
+    margin: 30px 0;
 }
 .water {
+    height:60px;
     color: blue;
 }
 .snake {
+    height:60px;
     color: green;
 }
 .gun {
+    height:60px;
     color: brown;
 }
